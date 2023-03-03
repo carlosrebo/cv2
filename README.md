@@ -5,3 +5,4 @@ Utiliza la barra de navegación superior con links ancla, listas desordenadas, f
 Usa tipografía de Google Fonts, utilizar una foto y usa Font Awesome para íconos.
 Usa javascript.
 Usa randomuser.me para generar una imagen.
+Usa bootstrap 4
